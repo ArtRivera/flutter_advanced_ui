@@ -1,29 +1,10 @@
 # custom_painter_app
 
-A new Flutter project.
+A simple Flutter project to learn how to use Custom Painter and develop UI design skills.
 
-## Getting Started
-
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/to/state-management-sample).
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Assets
-
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/to/resolution-aware-images).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter apps](https://flutter.dev/to/internationalization).
+<img src="https://github.com/user-attachments/assets/2493002d-8b0f-4dbe-928a-5d707ed2910c" height="600" />
+<img src="https://github.com/user-attachments/assets/2788f5a5-b681-4eaa-82e3-1a75cb0de4b8" height="600" />
+<img src="https://github.com/user-attachments/assets/c33e1e6d-3bc9-4b0d-b528-d5e775a4a013" height="600" />
+<img src="https://github.com/user-attachments/assets/7b04c75e-cb8e-4a3a-be2b-687c0f7e4a4b" height="600" />
+<img src="https://github.com/user-attachments/assets/10da7891-02d8-42fc-b9d5-4a0814ebe6f5" height="600" />
+<img src="https://github.com/user-attachments/assets/4def8060-90ec-4f91-83b9-444d6ee94b0c" height="600" />
