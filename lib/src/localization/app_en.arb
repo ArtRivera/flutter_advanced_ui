@@ -1,0 +1,6 @@
+{
+  "appTitle": "custom_painter_app",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
