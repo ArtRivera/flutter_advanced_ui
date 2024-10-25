@@ -1,6 +1,6 @@
-# custom_painter_app
+# Flutter advanded UI
 
-A simple Flutter project to learn how to use Custom Painter and develop UI design skills.
+A simple Flutter project to learn how to use Custom Painter and develop UI design skills & animations
 
 <img src="https://github.com/user-attachments/assets/2493002d-8b0f-4dbe-928a-5d707ed2910c" height="600" />
 <img src="https://github.com/user-attachments/assets/2788f5a5-b681-4eaa-82e3-1a75cb0de4b8" height="600" />
