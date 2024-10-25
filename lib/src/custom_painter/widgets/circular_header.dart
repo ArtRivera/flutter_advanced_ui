@@ -9,14 +9,7 @@ class CircularHeader extends StatelessWidget {
     return Container(
       height: 300,
       decoration: const BoxDecoration(
-        gradient: LinearGradient(
-          begin: Alignment.topCenter,
-          end: Alignment.bottomCenter,
-          colors: [
-            Color(0xff6D60A5),
-            Color(0xffC86DD7),
-          ],
-        ),
+        color: Color(0xff615AAB),
         borderRadius: BorderRadius.only(
           bottomLeft: Radius.circular(50),
           bottomRight: Radius.circular(50),
