@@ -18,8 +18,25 @@ class WavedHeader extends StatelessWidget {
 class _WavedPainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
+
+    final rect = Rect.fromCircle(
+      center: const Offset(0, 55),
+      radius: 180,
+    );
+
+    const gradient = LinearGradient(
+      begin: Alignment.topCenter,
+      end: Alignment.bottomCenter,
+      colors: [
+        Color(0xff615AAB),
+        Color.fromARGB(255, 38, 20, 75),
+      ],
+      stops: [0.5, 1],
+    );
+
     final paint = Paint()
-      ..color = const Color(0xff615AAB)
+      ..shader = gradient.createShader(rect)
+      // ..color = const Color(0xff615AAB)
       ..style = PaintingStyle.fill
       ..strokeWidth = 5;
 
